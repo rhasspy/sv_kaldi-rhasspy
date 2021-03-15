@@ -1,0 +1,1 @@
+{"text": "berätta tiden för mig", "intent": {"name": "GetTime", "confidence": 1.0}, "entities": [], "raw_text": "berätta tiden för mig", "tokens": ["berätta", "tiden", "för", "mig"], "raw_tokens": ["berätta", "tiden", "för", "mig"], "slots": {}, "intents": [], "recognize_seconds": 0.00041675567626953125}

@@ -1,0 +1,1 @@
+{"text": "hur mycket är klockan", "intent": {"name": "GetTime", "confidence": 1.0}, "entities": [], "raw_text": "hur mycket är klockan", "tokens": ["hur", "mycket", "är", "klockan"], "raw_tokens": ["hur", "mycket", "är", "klockan"], "slots": {}, "intents": [], "recognize_seconds": 0.00039768218994140625}
